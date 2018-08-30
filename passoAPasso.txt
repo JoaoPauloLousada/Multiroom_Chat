@@ -1,0 +1,27 @@
+Passo a passo de projetos node
+
+-criar diretorio
+-iniciar npm
+-baixar express 
+-baixar ejs
+-baixar consign
+-baixar body-parser
+-baixar express-validator
+
+-criar diretorio config
+    -server.js
+
+-criar app.js (na raiz no projeto)
+
+-criar diretorio app
+    -/views
+    -/models
+    -/controllers
+    -/routes
+    -/public
+        -/css
+        -/images
+        -/js
+
+-configurar servidor
+-instalar socket.io (se for necessario)
